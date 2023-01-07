@@ -9,7 +9,7 @@
   background-size: cover;
 }
 .header-sectiion {
-  padding: 100px 300px;
+  padding: 125px 300px;
   text-align: center;
 }
 .header-title {
@@ -123,6 +123,7 @@
 }
 .submit-form {
   width: 800px;
+  height: auto;
   margin: auto;
   padding: 76px 190px;
   background: #fff4d6;
@@ -137,3 +138,16 @@
   background-color: #d9d9d9;
 }
 /* footer section */
+.footer {
+  text-align: center;
+  padding: 50px 0px;
+  background-color: #7b7b7b;
+}
+.footer h1 {
+  font-size: 50px;
+  font-family: "Rubik Gemstones", cursive;
+  font-style: italic;
+}
+.footer p {
+  color: #ffffff;
+}
