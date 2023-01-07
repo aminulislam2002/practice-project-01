@@ -106,3 +106,13 @@
   background-color: #fff4d6;
 }
 /* banner section */
+ .banner {
+  display: flex;
+  justify-content: space-around;
+  gap: 85px;
+  padding: 50px 100px;
+  text-align: center;
+ }
+ .banner-img img{
+  width: 572px;
+ }
